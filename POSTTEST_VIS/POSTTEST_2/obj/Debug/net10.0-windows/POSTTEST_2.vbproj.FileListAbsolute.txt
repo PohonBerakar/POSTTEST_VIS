@@ -1,0 +1,16 @@
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.exe
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.deps.json
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.runtimeconfig.json
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.dll
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.pdb
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.Form1.resources
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.vbproj.GenerateResource.cache
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.AssemblyInfoInputs.cache
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.AssemblyInfo.vb
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.vbproj.CoreCompileInputs.cache
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.dll
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\refint\POSTTEST_2.dll
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.pdb
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.genruntimeconfig.cache
+D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_2\obj\Debug\net10.0-windows\ref\POSTTEST_2.dll
