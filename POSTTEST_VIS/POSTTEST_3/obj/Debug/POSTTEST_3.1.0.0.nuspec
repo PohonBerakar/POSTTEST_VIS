@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>POSTTEST_3</id>
+    <version>1.0.0</version>
+    <authors>POSTTEST_3</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net10.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_3\bin\Debug\net10.0-windows\POSTTEST_3.runtimeconfig.json" target="lib\net10.0-windows7.0\POSTTEST_3.runtimeconfig.json" />
+    <file src="D:\TugasKuliah\Semester4\Praktikum\PEMVIS\POSTTEST_VIS\POSTTEST_3\bin\Debug\net10.0-windows\POSTTEST_3.dll" target="lib\net10.0-windows7.0\POSTTEST_3.dll" />
+  </files>
+</package>
